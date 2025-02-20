@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: 8a06a50a7d4447f46bea3fd07b27f442
+  - enabled: 1
+    path: Assets/Scenes/MenuCreditos.unity
+    guid: 56d849cd545c0594e96c18bc95b46f90
+  - enabled: 1
+    path: Assets/Scenes/MenuJugar.unity
+    guid: 7d1c908f42c2bb9459192c028cb4bbab
+  - enabled: 1
+    path: Assets/Scenes/MenuMinijuego.unity
+    guid: 78b1b49dc895501499605be035a38420
+  - enabled: 1
+    path: Assets/Scenes/MenuNombre.unity
+    guid: c52be096530dcbe48b912148ea084250
+  - enabled: 1
+    path: Assets/Scenes/QuizNivel.unity
+    guid: 86f04bf41a8e38e47ab902a94de6b3ec
+  - enabled: 1
+    path: Assets/Scenes/VictoryScene.unity
+    guid: ac0e54b10efee224581ae3e005baf4ad
+  - enabled: 1
+    path: Assets/Scenes/MenuOpciones.unity
+    guid: 3a8eaa4da88fdee4280b26e7f4cc79b9
+  m_configObjects: {}
